@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @adrianofelix019
-- 👀 I’m interested in Java, JavaScript, Kotlin and falling in love with Elixir
-- 🌱 I’m currently learning Elixir and Phoenix Framework
-- 💞️ I’m looking to collaborate on Elixir and JavaScript projects
+- 👀 I’m interested in Java, JavaScript and TypeScript
+- 💞️ I’m looking to collaborate on TypeScript and JavaScript projects
 - 📫 How to reach me adrianofelix019@gmail.com
 
 <!---
